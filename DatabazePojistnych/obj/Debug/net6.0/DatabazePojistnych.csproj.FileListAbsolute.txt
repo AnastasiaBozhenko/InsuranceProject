@@ -1,0 +1,15 @@
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.csproj.AssemblyReference.cache
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.AssemblyInfo.cs
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.csproj.CoreCompileInputs.cache
+/Users/anastasia/Projects/DatabazePojistnych/bin/Debug/net6.0/DatabazePojistnych
+/Users/anastasia/Projects/DatabazePojistnych/bin/Debug/net6.0/DatabazePojistnych.deps.json
+/Users/anastasia/Projects/DatabazePojistnych/bin/Debug/net6.0/DatabazePojistnych.runtimeconfig.json
+/Users/anastasia/Projects/DatabazePojistnych/bin/Debug/net6.0/DatabazePojistnych.dll
+/Users/anastasia/Projects/DatabazePojistnych/bin/Debug/net6.0/DatabazePojistnych.pdb
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.dll
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/refint/DatabazePojistnych.dll
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.pdb
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/DatabazePojistnych.genruntimeconfig.cache
+/Users/anastasia/Projects/DatabazePojistnych/obj/Debug/net6.0/ref/DatabazePojistnych.dll
